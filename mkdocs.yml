@@ -8,4 +8,4 @@ docs_dir: docs
 
 nav:
   - Accueil: index.md
-  - Algorithme: algorithme.md
+  - Algorithme: tri_insertion_doc.md
