@@ -10,4 +10,3 @@ Voici comment l'utiliser :
 from src.tri_insertion import tri_insertion
 
 résultat = tri_insertion([9, 3, 1, 7])
-print(résultat)
