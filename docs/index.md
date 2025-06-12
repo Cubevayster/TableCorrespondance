@@ -1,4 +1,5 @@
 # Bienvenue dans le projet
+Voici ma documentation avec MkDocs + Material.
 
 Ce projet contient un exemple de tri en Python et une documentation générée avec MkDocs.
 
